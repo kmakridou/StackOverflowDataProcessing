@@ -1,4 +1,4 @@
-# StackOverflowDataProcessing
+# StackOverflowDataProcessing - ergasia_data_paradoteo
 In this project the StackOverflow for the year 2022 dataset is being used.
 For each of the following variables/events, it is provided both the distribution of values (i.e.
 the number/count of responses that each possible response of the particular
